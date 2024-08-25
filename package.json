@@ -1,0 +1,28 @@
+{
+  "name": "devtown_project_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukesh-2307/DevTown_Project_4.git#Staging_Branch"
+  },
+  "author": "mukesh dalai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mukesh-2307/DevTown_Project_4/issues"
+  },
+  "homepage": "https://github.com/Mukesh-2307/DevTown_Project_4/tree/Staging_Branch#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
